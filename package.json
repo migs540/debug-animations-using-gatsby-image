@@ -1,0 +1,31 @@
+{
+  "name": "using-gatsby-image",
+  "private": true,
+  "description": "test css transitions on gatsby",
+  "author": "MG",
+  "dependencies": {
+    "gatsby": "^1.9.119",
+    "gatsby-image": "^1.0.14",
+    "gatsby-link": "^1.6.23",
+    "gatsby-plugin-glamor": "^1.6.8",
+    "gatsby-plugin-netlify": "^1.0.0",
+    "gatsby-plugin-sharp": "^1.6.21",
+    "gatsby-plugin-styled-components": "^2.0.3",
+    "gatsby-plugin-typography": "^1.7.10",
+    "gatsby-source-filesystem": "^1.5.1",
+    "gatsby-transformer-sharp": "^1.6.12",
+    "numeral": "^2.0.6",
+    "sharp": "^0.18.4",
+    "styled-components": "^2.2.3",
+    "typeface-oswald": "^0.0.40",
+    "typeface-pt-sans": "^0.0.40",
+    "typography": "^0.16.6",
+    "typography-theme-elk-glen": "^0.16.9"
+  },
+  "license": "MIT",
+  "main": "n/a",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build"
+  }
+}
